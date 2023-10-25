@@ -43,6 +43,7 @@
 			<optional>true</optional>
 		</dependency>
 		<dependency>
+			<!--As dependencias de testes jã estão incluidas nessas. Como por exemplo: Junit e mockito-->
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
